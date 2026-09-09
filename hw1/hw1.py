@@ -238,7 +238,7 @@ def _():
     mo.md(r"""
     The sensitivity of the price ti the subscriber loss rate is
     $$
-    S(x,n)=\frac{-160000}{3n+160000}
+    S(x,n)=\frac{-16000}{3n+16000}
     $$
     """)
     return
