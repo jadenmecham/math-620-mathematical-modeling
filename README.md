@@ -1,2 +1,2 @@
 # math-620-mathematical-modeling
-MATH 620 - Mathmatical Modeling Fall 2026
+MATH 620 - Mathmatical Modeling Fall 2026. Homework files, etc...
